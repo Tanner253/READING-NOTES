@@ -8,3 +8,5 @@
 - [x] Assignment 1 | 00
 - [ ] Assignment 2 | 00
 - [ ] :tada:       | 00
+
+# Authors: Tanner Percival

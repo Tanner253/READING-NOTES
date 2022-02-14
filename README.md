@@ -6,9 +6,9 @@
 
 ### Reading List / File name
 
-- [x] Read : 01 | [Introduction-To-React-And-Components see documentation](Introduction-To-React-And-Components.md)
+- [x] Read : 01    | [Introduction-To-React-And-Components see documentation](Introduction-To-React-And-Components.md)
 
-- [] Assignment 2 | 00
+- [ ] Assignment 2 | 00
 
 - [ ] :tada:       | 00
 

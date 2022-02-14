@@ -69,14 +69,24 @@ instead of seperating technologies by puting markup and login in seperate files,
 
 What is a “component”?
 >a small piece of UI.
+
+
 What are the characteristics of a component?
 >components manage their own state, recieve information from parents and pass down to children
+
+
 What are the advantages of using component-based architecture?
 >Reduces the cost of development and maintainence.
+
+
 What is “props” short for?
 >properties which are parameters passed into children components
+
+
 How are props used in React?
 >they carry information that is passed down from parent to child.
+
+
 What is the flow of props?
 >one way parent to child.
 

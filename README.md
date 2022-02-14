@@ -1,15 +1,21 @@
-# READING-NOTES
+# Reading Notes
 
-## keep track of your observations and questions from the reading assignments throughout your course.
+---
 
-### Code 301 - Intermediate Software Development
+## ___Code 301 - Intermediate Software Development___
 
 ### Reading List / File name
+[Class 1: Introduction-To-React-And-Components see documentation](Introduction-To-React-And-Components.md)
 
-- [x] Read : 01    | [Introduction-To-React-And-Components see documentation](Introduction-To-React-And-Components.md)
 
-- [ ] Assignment 2 | 00
+---
 
-- [ ] :tada:       | 00
+## About Me
 
-## Authors: Tanner Percival
+Hello, my name is Tanner Percival. I am passionate about the environment!
+
+[Github](https://github.com/Tanner253)
+
+[Linkedin](https://www.linkedin.com/in/tannerperc)
+
+---

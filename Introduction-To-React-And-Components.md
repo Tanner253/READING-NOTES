@@ -60,7 +60,7 @@ function Square(props){
 
 Jsx is a syntax extension to javascript
 
-## why KSX
+## why JSX
 
 instead of seperating technologies by puting markup and login in seperate files, react prefers to loosly couple units into compontents. also prevents injection attacks
 
@@ -79,3 +79,6 @@ How are props used in React?
 >they carry information that is passed down from parent to child.
 What is the flow of props?
 >one way parent to child.
+
+## Things I want to know more about:
+> This syntax is still new to me so I want to get more comfortable with that.. The way state and this are used is really intuitive.

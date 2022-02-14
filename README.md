@@ -1,12 +1,15 @@
 # READING-NOTES
 
-###### keep track of your observations and questions from the reading assignments throughout your course.
+## keep track of your observations and questions from the reading assignments throughout your course.
 
-## Code 301 - Intermediate Software Development
+### Code 301 - Intermediate Software Development
 
-### Reading List / Line number
-- [x] Assignment 1 | 00
-- [ ] Assignment 2 | 00
+### Reading List / File name
+
+- [x] Read : 01 | Introduction-To-React-And-Components
+
+- [] Assignment 2 | 00
+
 - [ ] :tada:       | 00
 
-# Authors: Tanner Percival
+## Authors: Tanner Percival

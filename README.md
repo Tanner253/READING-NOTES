@@ -9,6 +9,9 @@
 [Class 1: Introduction-To-React-And-Components see documentation](Introduction-To-React-And-Components.md)
 [Class 1: Lecture 1](Lecture1.md)
 
+[Class 2: State Vs. Props](State-And-Props.md)
+[Class 2: Lecture 2](Lecture1.md)
+
 ---
 
 ## About Me

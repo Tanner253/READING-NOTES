@@ -74,4 +74,24 @@ console.log(employee);
 ```
 >See above
 
+- In the video, what is the first step that the developer does to pass functions between components?
+
+>create function where state needs to be changed, indentifys why he needs a function and where
+
+- In your own words, what does the increment function do?
+
+>the incriment function takes in an object, copys it, and modifies the value of property count on one of the objects if conditions are met. further more on the person component incriment just flips a property value to true/positive based on input.
+
+- How can you pass a method from a parent component into a child component? 
+
+>as any other prop, through the object in the parent object
+
+- How does the child component invoke a method that was passed to it from a parent component?
+
+>
+```js
+this.props.method_name_from_parent(params needed for the method name)
+```
+
+
 <https://www.javascripttutorial.net/object/javascript-merge-objects/>

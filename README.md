@@ -9,8 +9,12 @@
 [Class 1: Introduction-To-React-And-Components see documentation](/Readings/Introduction-To-React-And-Components.md)
 [Class 1: Lecture 1](/Lectures/Lecture1.md)
 
-[Class 2: State Vs. Props](/Readings/State-And-Props.md)
-[Class 2: Lecture 2](/Lectures/Lecture1.md)
+
+[Class 2: State Vs. Props](State-And-Props.md)
+[Class 2: Lecture 2](Lecture2.md)
+
+[Class 3: Passing functions as props](State-And-Props.md)
+[Class 3: Lecture 3](Lecture3.md)
 
 ---
 

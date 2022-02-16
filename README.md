@@ -13,7 +13,7 @@
 [Class 2: State Vs. Props](State-And-Props.md)
 [Class 2: Lecture 2](Lecture2.md)
 
-[Class 3: Passing functions as props](State-And-Props.md)
+[Class 3: Passing functions as props](Passing-Functions-As-Props.md)
 [Class 3: Lecture 3](Lecture3.md)
 
 ---

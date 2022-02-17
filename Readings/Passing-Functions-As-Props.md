@@ -72,6 +72,7 @@ let employee = {
 
 console.log(employee);
 ```
+
 >See above
 
 - In the video, what is the first step that the developer does to pass functions between components?

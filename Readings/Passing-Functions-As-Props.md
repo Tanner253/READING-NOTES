@@ -72,6 +72,7 @@ let employee = {
 
 console.log(employee);
 ```
+
 >See above
 
 - In the video, what is the first step that the developer does to pass functions between components?
@@ -92,6 +93,7 @@ console.log(employee);
 ```js
 this.props.method_name_from_parent(params needed for the method name)
 ```
+
 
 
 <https://www.javascripttutorial.net/object/javascript-merge-objects/>

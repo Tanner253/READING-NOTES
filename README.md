@@ -16,6 +16,8 @@
 [Class 3: Passing functions as props](/Readings/Passing-Functions-As-Props.md)
 [Class 3: Lecture 3](/Lectures/Lecture3.md)
 
+[Class 4: React - Forms](/Readings/React-And-Forms.md)
+[Class 4: Lecture 4](/Lectures/Lecture4.md)
 ---
 
 ## About Me

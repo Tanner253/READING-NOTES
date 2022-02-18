@@ -15,6 +15,8 @@
 
 [Class 3: Passing functions as props](/Readings/Passing-Functions-As-Props.md)
 [Class 3: Lecture 3](/Lectures/Lecture3.md)
+[Class 4: Putting it all together](/Readings/Putting-It-All-Together.md)
+[Class 3: Lecture 3](/Lectures/.md)
 
 ---
 

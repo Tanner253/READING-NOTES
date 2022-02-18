@@ -16,4 +16,4 @@
 >to look super cool B)
 
 Rewrite the following statement using a ternary statement:
-> x===y ? true : false; 
+> x===y ? true : false;

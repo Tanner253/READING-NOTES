@@ -1,11 +1,11 @@
 # Reading Notes
 
 ---
+
 ## Code 401
 
 - [PreWork SQL](/Readings/401/SQL_REFLECTION.md)
 - [Getting Ready For 401](/Readings/401/Getting-Ready-For-401.md)
-
 
 ## Code 301
 
@@ -30,6 +30,8 @@
 - [Class 13: NODE.JS](/Readings/301/NodeJS.md)
 - [Class 13: NODE.JS](/Readings/301/NodeJS.md)
 
+[Class 4: React - Forms](/Readings/React-And-Forms.md)
+[Class 4: Lecture 4](/Lectures/Lecture4.md)
 ---
 
 ## About Me

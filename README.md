@@ -2,7 +2,9 @@
 
 ---
 ## Code 401
+
 - [PreWork SQL](/Readings/401/SQL_REFLECTION.md)
+- [Getting Ready For 401](/Readings/401/Getting-Ready-For-401.md)
 
 
 ## Code 301

@@ -4,9 +4,12 @@
 
 ## Code 401
 
-- [PreWork SQL](/Readings/401/SQL_REFLECTION.md)
-- [Getting Ready For 401](/Readings/401/Getting-Ready-For-401.md)
-- [Command line](/Readings/401/Command-Line.md)
+- [PREWORK SQL](/Readings/401/SQL_REFLECTION.md)
+- [GETTING READY FOR 401](/Readings/401/Getting-Ready-For-401.md)
+- [COMMAND LINE](/Readings/401/Command-Line.md)
+- [NODE ECOSYSTEM](/Readings/401/node-ecosystem-CI-TDD.md)
+- [SQL REFLECTION](/Readings/401/SQL_REFLECTION.md)
+- [MORE EXPRESS STUFF](/Readings/401/Express.md)
 
 ## Code 301
 

@@ -12,6 +12,7 @@
 - [MORE EXPRESS STUFF](/Readings/401/Express.md)
 - [HOW TO MAKE EXPRESS](/Readings/401/expressrestapi.md)
 - [HOW TO DATA MODEL](/Readings/401/datamodeling.md)
+- [Authentication](/Readings/401/Authentication.md)
 
 ## Code 301
 

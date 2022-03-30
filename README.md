@@ -13,6 +13,7 @@
 - [HOW TO MAKE EXPRESS](/Readings/401/expressrestapi.md)
 - [HOW TO DATA MODEL](/Readings/401/datamodeling.md)
 - [Authentication](/Readings/401/Authentication.md)
+- [JWT](/Readings/401/JWT.md)
 
 ## Code 301
 

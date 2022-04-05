@@ -15,7 +15,9 @@
 - [Authentication](/Readings/401/Authentication.md)
 - [JWT](/Readings/401/JWT.md)
 - [RBAC ACCESS CONTROL](/Readings/401/accesscontrol.md)
-- [RBAC ACCESS CONTROL](/Readings/401/eventDD.md)
+- [Event driven development](/Readings/401/eventDD.md)
+- [SOCKETS!](/Readings/401/Sockets.md)
+
 
 ## Code 301
 
@@ -37,7 +39,6 @@
 - [Class 11: CALLSTACK](/Readings/301/stack.md)
 - [Class 12: AUTH0](/Readings/301/OAuth.md)
 - [Class 13: REACT AND FORMS](/Readings/301/React-And-Forms.md)
-- [Class 13: NODE.JS](/Readings/301/NodeJS.md)
 - [Class 13: NODE.JS](/Readings/301/NodeJS.md)
 
 [Class 4: React - Forms](/Readings/React-And-Forms.md)

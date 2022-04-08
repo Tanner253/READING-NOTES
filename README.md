@@ -18,6 +18,7 @@
 - [Event driven development](/Readings/401/eventDD.md)
 - [SOCKETS!](/Readings/401/Sockets.md)
 - [MESSAGE QUEUE](/Readings/401/MessageQueues.md)
+- [SNS vs SQS](/Readings/401/aws.md)
 
 
 ## Code 301

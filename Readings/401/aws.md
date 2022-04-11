@@ -1,14 +1,16 @@
 # SNS VS SQS
 
 ## SNS
+
 - Publisher / subscriber system 
 - Publishing messages to a topic can deliver to many subscribers of different types.
 
 do OTHER SYSTEMS care about an event?
 SNS is the broadcast messages
+
 ## SQS
 
-- queueing service for message proceessing 
+- queueing service for message proceessing.
 - a system must polll the queue to discover new events
 - MEssafes in the queue are typically processed by a single consumer
 

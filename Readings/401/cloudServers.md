@@ -9,5 +9,3 @@
   - Scale for HPC applications
   - Develop for apple platforms
   - Train and deploy and ML applications
-
-  
